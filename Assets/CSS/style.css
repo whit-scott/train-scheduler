@@ -1,0 +1,43 @@
+body{
+  background:white;
+}
+.jumbotron{
+  background-color:grey;
+  color:black;
+  border:5px grey solid;
+font: 30px Times;
+}
+.ride{
+  font-size:20px;
+  color:black;
+}
+
+.panel-body{
+  border:2px black solid;
+}
+.current ,.add{
+  color:black;
+  font-size:20px;
+}
+#trainTable{
+  background-color:yellow;
+  color:black;
+  font-size:20px;
+  font: bold;
+}
+
+#trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+  color:black;
+  font-size:15px;
+  background-color:white;
+}
+
+.btn{
+  background-color:grey;
+  font-size:25px;
+}
+
+.form-group{
+  color: black;
+  font-size:20px;
+}
